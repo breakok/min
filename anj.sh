@@ -1,1 +1,1 @@
-wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.29/lolMiner_v1.29_Lin64.tar.gz && tar -xf lolMiner_v1.29_Lin64.tar.gz && cd 1.29 && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user DOGE:DNeSzoG5s8czJdjMi2DziHTBACZuPeq9G2.teamajag#svo1-y3gf --ethstratum ETHPROXY
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.45/lolMiner_v1.45_Lin64.tar.gz && tar -xf lolMiner_v1.45_Lin64.tar.gz && cd 1.45 && ./lolMiner --algo ETHASH --pool eth.2miners.com:2020 --user 0x35c366d465c402cbf95e47c585d9c9e7689ebbdd.teamajag
