@@ -1,0 +1,1 @@
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.45/lolMiner_v1.45_Lin64.tar.gz && tar -xf lolMiner_v1.45_Lin64.tar.gz && cd 1.45 && ./lolMiner --algo ETHASH --pool stratum+ssl://eu.ezil.me:25443 --user 0x35c366d465c402cbf95e47c585d9c9e7689ebbdd.zil14fhhdj47mr5lsk6pzypw9pmxp284kzn8q7ewul.teamajag --ethstratum ETHPROXY --enablezilcache
